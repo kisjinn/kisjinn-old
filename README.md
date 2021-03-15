@@ -1,4 +1,4 @@
-<img src="https://github.com/kisjinn/kisjinn/blob/main/images/Sakshi_Jinnewar.png" width="700" height="400">
+<img src="https://github.com/kisjinn/kisjinn/blob/main/images/Sakshi_Jinnewar.png" width="1000" height="200">
 
 # Hello, folks! <img src="https://github.com/kisjinn/kisjinn/blob/main/images/wave.gif" width="30px">
 
