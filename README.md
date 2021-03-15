@@ -1,4 +1,4 @@
-[![Header](https://github.com/kisjinn/kisjinn/blob/main/images/Sakshi_Jinnewar.png "Header")]
+[![Header](https://github.com/kisjinn/kisjinn/blob/main/images/Sakshi_Jinnewar.png "Header"){:width="400px"}]
 
 # Hello, folks! <img src="https://github.com/kisjinn/kisjinn/blob/main/images/wave.gif" width="30px">
 
