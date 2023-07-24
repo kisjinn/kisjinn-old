@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://github.com/kisjinn/kisjinn/blob/main/images/wave.gif" width="30px">
 
-👩🏻‍💻 My name is Sakshi Jinnewar and a Computer Engineering student seeking a challenging position to explore career options and to gain recent knowledge in the IT sector.You can find me on [![LinkedIn]](https://www.linkedin.com/in/sakshi-jinnewar-322020/).
+👩🏻‍💻 My name is Sakshi Jinnewar and a Computer Engineering geek seeking a challenging position to explore career options and to gain recent knowledge in the IT sector.You can find me on [![LinkedIn]](https://www.linkedin.com/in/sakshi-jinnewar-322020/).
 
 ## &#x1f4c8; GitHub Stats
 
